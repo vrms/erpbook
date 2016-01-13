@@ -1,15 +1,15 @@
 Accounting
 
-You may think why is accounts important in my business? If I’m d sole person who is handling my shoe business then I don’t have to really keep a tab on expenses and stuff. But that’s not true. Account isn’t only about income and expenses. It gives you the record of all the things you’ve spent on or maybe you still need to be paid for. This hence, at the end of the day gives you an idea where your business stands.
+You may think why is accounts important in my business? If I am a sole person who is handling my shoe business then I don’t have to really keep a tab on expenses and stuff. But that’s not true. Account isn’t only about income and expenses. It gives you the record of all the things you’ve spent on or maybe you still need to be paid for. This hence, at the end of the day gives you an idea where your business stands.
 
 Accounting is very much used in our daily lives in a way. Because in a way we all plan what we’ll do with our money, how much will be spent and how much will be kept back. All this is called budgeting. So with budgeting you can basically spend you money cautiously. This is important when you run any business too. You need to keep a tab about are you inflows and outflows of all the economic resources use in your business.
 Thus accounting forms a very crucial part in any business to help make good economic decisions with the information it provides.
 
-After being a little familiar with why we need accounting lets get familiar with what is accounting? In simple words it’s basically a record of all the financial transactions for an asset or individual, such as at a bank (when you update your pass book you can view all the financial transactions you’ve made), a credit card company or a retail store. This is the way my professor thought me in college. But its true don’t worry. Taking our shoe business into picture it generally keeps a record of all the payments between the seller and the buyer.
+After being a little familiar with why we need accounting lets get familiar with what is accounting? In simple words it’s basically a record of all the financial transactions for an asset or individual, such as at a bank (when you update your pass book you can view all the financial transactions you’ve made), a credit card company or a retail store. This is the way my professor thought me in college. But its true don’t worry. Taking our shoe business into picture it generally keeps a record of all the payments between the seller and the buyer.
 
 According to Wikipedia, if you want a more trustable definition of what account is.
 
-accounts-accounting is a systematic way to record transactions. An account (book keeping) refers to assets,liabilities, income, expense and equity as represented by individual ledger pages, to which changes in value are chronologically recorded with debit and credit entries. These entries, refered to as postings, become part of a book of final entry or ledger, examples of cmmn financial account sare cash, sales,wages and payroll. A chart of accounts provides a listing of all finacial accounts used by particular business ,organization or goverment agency. 
+   "accounts-accounting is a systematic way to record transactions. An account (book keeping) refers to assets,liabilities, income, expense and equity as represented by individual ledger pages, to which changes in value are chronologically recorded with debit and credit entries. These entries, refered to as postings, become part of a book of final entry or ledger, examples of cmmn financial account sare cash, sales,wages and payroll. A chart of accounts provides a listing of all finacial accounts used by particular business ,organization or goverment agency."
 
 
 
